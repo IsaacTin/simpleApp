@@ -1,0 +1,36 @@
+{
+    "rabbits": [
+        {
+            "id": 1,
+            "src": "./images/rabbitImages/rabbit1.png"
+        },
+        {
+            "id": 2,
+            "src": "./images/rabbitImages/rabbit2.png"
+        },
+        {
+            "id": 3,
+            "src": "./images/rabbitImages/rabbit3.png"
+        },
+        {
+            "id": 4,
+            "src": "./images/rabbitImages/rabbit4.png"
+        },
+        {
+            "id": 5,
+            "src": "./images/rabbitImages/rabbit5.png"
+        },
+        {
+            "id": 6,
+            "src": "./images/rabbitImages/rabbit6.png"
+        },
+        {
+            "id": 7,
+            "src": "./images/rabbitImages/rabbit7.png"
+        },
+        {
+            "id": 8,
+            "src": "./images/rabbitImages/rabbit8.png"
+        }
+    ]
+}

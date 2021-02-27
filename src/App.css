@@ -28,6 +28,41 @@
   color: #61dafb;
 }
 
+.buttons-bar {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 30vh;
+  width: 80%;
+  margin-left: 10%;
+} 
+
+.button {
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 10px;
+  width: 20%;
+  height: 20%;
+  margin: auto;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.photos {
+  height: 200px;
+  width: auto;
+  margin: 10px auto;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

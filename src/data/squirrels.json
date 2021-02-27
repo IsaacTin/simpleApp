@@ -1,0 +1,36 @@
+{
+    "squirrels": [
+        {
+            "id": 1,
+            "src": "./images/squirrelImages/squirrel1.png"
+        },
+        {
+            "id": 2,
+            "src": "./images/squirrelImages/squirrel2.png"
+        },
+        {
+            "id": 3,
+            "src": "./images/squirrelImages/squirrel3.png"
+        },
+        {
+            "id": 4,
+            "src": "./images/squirrelImages/squirrel4.png"
+        },
+        {
+            "id": 5,
+            "src": "./images/squirrelImages/squirrel5.png"
+        },
+        {
+            "id": 6,
+            "src": "./images/squirrelImages/squirrel6.png"
+        },
+        {
+            "id": 7,
+            "src": "./images/squirrelImages/squirrel7.png"
+        },
+        {
+            "id": 8,
+            "src": "./images/squirrelImages/squirrel8.png"
+        }
+    ]
+}

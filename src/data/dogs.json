@@ -1,0 +1,36 @@
+{
+    "dogs": [
+        {
+            "id": 1,
+            "src": "./images/dogImages/dog1.png"
+        },
+        {
+            "id": 2,
+            "src": "./images/dogImages/dog2.png"
+        },
+        {
+            "id": 3,
+            "src": "./images/dogImages/dog3.png"
+        },
+        {
+            "id": 4,
+            "src": "./images/dogImages/dog4.png"
+        },
+        {
+            "id": 5,
+            "src": "./images/dogImages/dog5.png"
+        },
+        {
+            "id": 6,
+            "src": "./images/dogImages/dog6.png"
+        },
+        {
+            "id": 7,
+            "src": "./images/dogImages/dog7.png"
+        },
+        {
+            "id": 8,
+            "src": "./images/dogImages/dog8.png"
+        }
+    ]
+}
